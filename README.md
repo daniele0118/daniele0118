@@ -1,14 +1,14 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Daniele Ferreira</b>
+                <b>Daniele Ferreira</b>✨
         </samp>
 </h1>
 
 <p align="center"> 
   <samp>
     <br>
-    「 I am a FullStack web application developer from <b>Brazil</b> 🇧🇷 」
+    「 I am a FullStack web application developer from <b>Brazil</b> 」
     </br>
   </samp>
 </p>
@@ -20,8 +20,7 @@
 </p>
 
 ## Use To Code
-          
-
+              
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -34,14 +33,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/daniele0118">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniele0118&theme=radical&border=7F3FBF&background=0D1117" alt="Dani's GitHub streak"/>
-  </a>
-</p>
+<br/>
+<hr/>
+<br/>
+
 
 <p align="center">
   <a href="https://github.com/daniele0118">
@@ -56,19 +56,8 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniele0118&custom_title=Daniele's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Daniele's Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniele0118&custom_title=Daniele's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!--
 **daniele0118/daniele0118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
