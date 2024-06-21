@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Daniele Ferreira</a></b>
+                <b>Daniele Ferreira</b>
         </samp>
 </h1>
 
@@ -15,17 +15,11 @@
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/danielecferreira/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dani"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dani"/>
  </a>
 </p>
+
 ## Use To Code
-
-
-<i class="devicon-java-plain-wordmark"></i>
-<i class="devicon-javascript-plain"></i>
-<i class="devicon-typescript-plain"></i>
-<i class="devicon-python-plain"></i>
-          
           
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -37,12 +31,15 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <a> 
     <a href="https://github.com/daniele0118"><img alt="Daniele Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=daniele0118&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/daniele0118"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=daniele0118&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/daniele0118"><img alt="Daniele Ferreira's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=daniele0118&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
